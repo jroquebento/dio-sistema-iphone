@@ -1,0 +1,7 @@
+.vscode/settings.json
+bin/IAparelhoTelefonico.class
+bin/INavegadorInternet.class
+bin/Iphone.class
+bin/IReprodutorMusical.class
+bin/Main.class
+bin/Menu.class
